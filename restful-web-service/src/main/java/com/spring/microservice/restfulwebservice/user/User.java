@@ -1,4 +1,4 @@
-package com.spring.microservice.restfulwebservice.bean;
+package com.spring.microservice.restfulwebservice.user;
 
 import java.util.Date;
 
@@ -6,6 +6,12 @@ public class User {
     private Integer id;
     private String name;
     private Date dob;
+
+    public User(Integer id, String name, Date dob) {
+        this.id = id;
+        this.name = name;
+        this.dob = dob;
+    }
 
     public Integer getId() {
         return id;
