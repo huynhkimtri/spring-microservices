@@ -1,0 +1,15 @@
+Blog Application - High Level Requirements
+Build REST API's for a simple Blog Application
+User should able to List, create, update and delete posts
+User should able to perform pagination and sorting on posts
+User should able to add, update, delete comments for post
+User should able to register to Blog App
+User should able to login to blog App
+Build REST AP's for pagination and sorting
+Build REST API's for login and signup
+Proper REST API exception or error handling
+Proper REST API Request validation
+Secure REST APIs ( role based security) - ADMIN, USER
+Use Token based authentication
+Document All REST APls for Consumers
+Deploy Blog App Production
